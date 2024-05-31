@@ -6,7 +6,7 @@ React-app to-do list using Redux as state manager
 
 ### `npm i`
 
-## Launch the app (it must be done in a second terminal)
+## Launch the app
 
 ### `npm start`
 
