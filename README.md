@@ -1,5 +1,15 @@
-# React Todo List with Redux
+# React To-do List
 
-1. Clonez le dépot sur votre propre machine ou ouvrez le dans Gitpod
-2. Installez les dépendances : `npm install` (fait par défaut sur Gitpod)
-3. Lancez l'application : `npm start`
+React-app to-do list using Redux as state manager
+
+## Install all dependencies (open a terminal in the project folder)
+
+### `npm i`
+
+## Launch the app (it must be done in a second terminal)
+
+### `npm start`
+
+## Access the app
+
+### Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
